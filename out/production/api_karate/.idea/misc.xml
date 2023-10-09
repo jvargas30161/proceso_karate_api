@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="com.github.texhnolyzze.jiraworklogplugin.JiraWorklogPluginState">
+    <option name="closed" value="true" />
+    <option name="lastBranch" value="master" />
+    <option name="timers" value="{&quot;master&quot;:{&quot;total&quot;:49053750552499,&quot;updatedAtSinceEpoch&quot;:1696824321.075040600,&quot;paused&quot;:true}}" />
+    <option name="timeSeries" value="[{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1692711199.236407100,&quot;duration&quot;:34239.100685100},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1695230741.409656900,&quot;duration&quot;:9178.656357100},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1695239948.762155300,&quot;duration&quot;:1291.176493300},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696806071.230057100,&quot;duration&quot;:1331.642951500},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696807445.714946900,&quot;duration&quot;:150.107090700},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696807627.156712800,&quot;duration&quot;:70.093613000},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696821416.765974101,&quot;duration&quot;:2422.565149499},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696823905.663119200,&quot;duration&quot;:50.057311400},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696823975.505555600,&quot;duration&quot;:220.245946200},{&quot;branch&quot;:&quot;master&quot;,&quot;started&quot;:1696824227.663404800,&quot;duration&quot;:100.104954700}]" />
+  </component>
+</project>
